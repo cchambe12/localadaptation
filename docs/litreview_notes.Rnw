@@ -1,0 +1,61 @@
+\documentclass{article}[12pt]
+\usepackage{Sweave}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{siunitx}
+\usepackage{amssymb} % for math symbols
+\usepackage{amsmath} % for aligning equations
+\usepackage{mdframed}
+\usepackage{natbib}
+%\bibliographystyle{..//bib/styles/gcb}
+\usepackage[hyphens]{url}
+\usepackage[small]{caption}
+\setlength{\captionmargin}{30pt}
+\setlength{\abovecaptionskip}{0pt}
+\setlength{\belowcaptionskip}{10pt}
+\topmargin -1.5cm        
+\oddsidemargin -0.04cm   
+\evensidemargin -0.04cm
+\textwidth 16.59cm
+\textheight 21.94cm 
+%\pagestyle{empty} %comment if want page numbers
+\parskip 7.2pt
+\renewcommand{\baselinestretch}{2}
+\parindent 0pt
+\usepackage{lineno}
+\linenumbers
+\usepackage{setspace}
+\doublespacing
+
+\newmdenv[
+  topline=true,
+  bottomline=true,
+  skipabove=\topsep,
+  skipbelow=\topsep
+]{siderules}
+\begin{document}
+
+\renewcommand{\thetable}{\arabic{table}}
+\renewcommand{\thefigure}{\arabic{figure}}
+\renewcommand{\labelitemi}{$-$}
+
+\renewcommand{\thesection}{\arabic{section}.}
+\renewcommand\thesubsection{\arabic{section}.\arabic{subsection}} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Notes on local adaptation lit review}
+
+General things to note as I read through papers: 
+\begin{enumerate}
+\item Ontogeny matters (Osada2018, Augspurger & Bartlett 2003; Vitasse 2013) - so good to think about either adult only, seedling only, or capturing as many years as possible
+\item Osada2018 uses Jan-March for MST and GDDs were from January AND from February which were similar so stick with January start. Used November 1 until day of budburst as chilling accumulation
+
+\end{enumerate}
+
+
+Just working through the papers: \\
+
+
+
+\end{document}
