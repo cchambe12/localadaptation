@@ -56,6 +56,15 @@ General things to note as I read through papers:
 
 Just working through the papers: \\
 
+First paper of use from Ranges lit review is \textbf{Liang, 2019}:
+\begin{enumerate}
+\item Looking at \textit{Fraxinus americana} L., 
+\item `Interannual weather fluctuations likely led to varied gradients of spring phenological timing by tree orgin latitude as influenced by interactions of chilling and forcing, while the latitudinal gradients of autumn phenology consistently followed a photoperiod-driven pattern.' 
+\item Hypothesis: more northern populations require more chilling but less forcing for budbreak
+\item Hypothesis: budset requires longer photoperiods for more northern populations
+\item CG provenance latitudes span 15 deg latitude (30-45)
+\item Chilling: Nov 7 to Feb 3
+\item Forcing: Feb 3 to May 5
 
 
 \end{document}
